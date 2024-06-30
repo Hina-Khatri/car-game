@@ -1,0 +1,7 @@
+c:\users\nand\documents\visual studio 2010\Projects\Players\Players\bin\Release\Players.exe
+c:\users\nand\documents\visual studio 2010\Projects\Players\Players\bin\Release\Players.pdb
+c:\users\nand\documents\visual studio 2010\Projects\Players\Players\obj\x86\Release\Players.Form1.resources
+c:\users\nand\documents\visual studio 2010\Projects\Players\Players\obj\x86\Release\Players.Properties.Resources.resources
+c:\users\nand\documents\visual studio 2010\Projects\Players\Players\obj\x86\Release\Players.csproj.GenerateResource.Cache
+c:\users\nand\documents\visual studio 2010\Projects\Players\Players\obj\x86\Release\Players.exe
+c:\users\nand\documents\visual studio 2010\Projects\Players\Players\obj\x86\Release\Players.pdb

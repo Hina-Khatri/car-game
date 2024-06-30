@@ -1,0 +1,8 @@
+c:\users\nand\documents\visual studio 2010\Projects\Players\Players\obj\x86\Debug\Players.Form1.resources
+c:\users\nand\documents\visual studio 2010\Projects\Players\Players\obj\x86\Debug\Players.Properties.Resources.resources
+c:\users\nand\documents\visual studio 2010\Projects\Players\Players\obj\x86\Debug\Players.csproj.GenerateResource.Cache
+c:\users\nand\documents\visual studio 2010\Projects\Players\Players\bin\Debug\Players.exe
+c:\users\nand\documents\visual studio 2010\Projects\Players\Players\bin\Debug\Players.pdb
+c:\users\nand\documents\visual studio 2010\Projects\Players\Players\obj\x86\Debug\Players.exe
+c:\users\nand\documents\visual studio 2010\Projects\Players\Players\obj\x86\Debug\Players.pdb
+C:\Users\Nand\Documents\Visual Studio 2010\Projects\Players\Players\obj\x86\Debug\Players.csprojResolveAssemblyReference.cache
